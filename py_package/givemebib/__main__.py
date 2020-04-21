@@ -416,11 +416,11 @@ def main() :
             err = 'Article: {}    journal name or abbreviation: {}'.format(article, journal)
             print(err)
             errorlog.write('\n' + err)
+    errorlog.close()
 
     # End of APPLICATION
 
 if __name__ == "__main__":
     print(__name__)
     main()
-errorlog.close()
 
