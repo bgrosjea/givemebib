@@ -25,7 +25,7 @@ The sample files in the [samples](https://github.com/bgrosjea/givemebib/blob/mas
 
 *The MacOS executable has been tested only on one computer and may not always work, it is better to use the python pip distribution.*
 
-Within the [MacOS_exe folder](https://github.com/bgrosjea/givemebib/tree/master/MacOS_exe), download all three files: *givemebib.command*, *journal_abbreviations.dat*, *givemebib.ini* and place them in the same folder in your computer. Double-click *givemebib.command* in Finder to launch the program. 
+Download the compressed directory [givemebib_MacOS.zip](https://github.com/bgrosjea/givemebib/blob/master/givemebib_MacOS.zip), that contains three files: *givemebib.command*, *journal_abbreviations.dat*, *givemebib.ini*. Extract the directory on your computer and double-click *givemebib.command* in Finder to launch the program. 
 
 ### Python: using pip
 
@@ -34,8 +34,8 @@ Run in terminal:
 
 ### Python: manually
 
-1) Download the directory (https://github.com/bgrosjea/givemebib.py_package/).
-2) In the downloaded directory, run in terminal: `python setup.py install` or `python3 setup.py install`
+1) Download the [compressed directory](https://github.com/bgrosjea/blob/master/givemebib_py.zip/).
+2) In the extracted downloaded directory, run in terminal: `python setup.py install` or `python3 setup.py install`
 
 ## How to run it:  
 

@@ -8,7 +8,7 @@ with open('requirements.txt') as f:
 
 setuptools.setup(
     name="givemebib",
-    version="1.0.1",
+    version="1.0.2",
     author="Benoit Grosjean",
     author_email="grosjean.benoit@gmail.com",
     description="Provides clean .bib files, with possible abbreviation of journal titles",

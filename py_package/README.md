@@ -17,7 +17,7 @@ It can do so starting from several **input** types:
 
 It does not work 100% of the time for .pdf files and Google Scholar queries. 
 
-The sample files in the [samples](https://github.com/bgrosjea/givemebib/blob/master/samples/) repository are meant to also show some of the error messages, hence some input files would not yield all the bib information. 
+The sample files in the [samples](https://github.com/bgrosjea/givemebib/blob/master/samples/) directory are meant to also show some of the error messages, hence some input files would not yield all the bib information. 
 
 ## How to install: 
 
@@ -28,8 +28,8 @@ Run in terminal:
 
 ### Manually
 
-1) Download the directory (https://github.com/bgrosjea/givemebib.py_package/).
-2) In the downloaded directory, run in terminal: `python setup.py install` or `python3 setup.py install`
+1) Download the [compressed directory](https://github.com/bgrosjea/blob/master/givemebib_py.zip/).
+2) In the extracted downloaded directory, run in terminal: `python setup.py install` or `python3 setup.py install`
 
 ## How to run it:  
 ### with Command line
